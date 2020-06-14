@@ -57,7 +57,7 @@ that is currently being visited or explored.
 
 ### Instructions
 * Run maze.py (python maze.py)
-Once the maze is created (The maze drawing starts automatically):
+* Once the maze is created (The maze drawing starts automatically):
 * Press "s" while hovering over the intended point to select a <b>starting</b> point (represented by the color green)
 * Press "e" while hovering over the intended point to select an <b>ending</b> point (represented by the color red)
 * To erase any square already drawn, press "backspace" while hovering over the intended square
