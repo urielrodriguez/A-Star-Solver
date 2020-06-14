@@ -27,9 +27,9 @@ This project uses Pygame for visualization purposes.
 * Press "s" while hovering over the intended tile to select a <b>starting</b> point (represented by the color green)
 * Press "e" while hovering over the intended tile to select an <b>ending</b> point (represented by the color red)
 * Click on a specific tile or click and drag to create "walls" or "obstacles" (represented by the color black)
-* To erase any tile or box already drawn, press "backspace"
+* To erase any tile or box already drawn, press "backspace" while hovering over the intended tile
 * Press "enter" to run the visualizer
 
 ### Exmaple
-
+<img src="gifs/Visualizer.gif" width="400" height="400" />
 
