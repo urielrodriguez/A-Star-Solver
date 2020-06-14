@@ -25,6 +25,7 @@ The algorithm uses Manhattan distance as its heuristic.
 This project uses Pygame for visualization purposes. 
 
 ### Instructions
+* Run visualizer.py (python visualizer.py)
 * Press "s" while hovering over the intended tile to select a <b>starting</b> point (represented by the color green)
 * Press "e" while hovering over the intended tile to select an <b>ending</b> point (represented by the color red)
 * Click on a specific tile or click and drag to create "walls" or "obstacles" (represented by the color black)
@@ -55,7 +56,8 @@ The algorithm used to create the random maze is recursive backtracking. The red 
 that is currently being visited or explored. 
 
 ### Instructions
-Once the maze is created:
+* Run maze.py (python maze.py)
+Once the maze is created (The maze drawing starts automatically):
 * Press "s" while hovering over the intended point to select a <b>starting</b> point (represented by the color green)
 * Press "e" while hovering over the intended point to select an <b>ending</b> point (represented by the color red)
 * To erase any square already drawn, press "backspace" while hovering over the intended square
