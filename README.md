@@ -18,7 +18,7 @@ The algorithm uses Manhattan distance as its heuristic.
 * The green tile represents the starting point.
 * The red tile represents the ending point.
 * The black tiles represent the walls or obstacles.
-* The blue tiles (displayed once the algorithms runs) represent the visited or explored points
+* The blue tiles (displayed once the algorithms runs) represent the visited or explored tiles
 * The yellow tiles (displayed once the algorithms runs) represent the shortest path.
 
 #### Visualization Tool
@@ -45,7 +45,7 @@ The maze creator and solver creates a random maze and displays the path from a s
 #### Color Codes
 * The green square represents the starting point.
 * The red square represents the ending point.
-* The blue squares (displayed once the algorithms runs) represent the visited or explored tiles
+* The blue squares (displayed once the algorithms runs) represent the visited or explored squares
 * The yellow squares (displayed once the algorithms runs) represent the path.
 
 #### Visualization Tool
