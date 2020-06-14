@@ -18,7 +18,7 @@ The algorithm uses Manhattan distance as its heuristic.
 * The green tile represents the starting point.
 * The red tile represents the ending point.
 * The black tiles represent the walls or obstacles.
-* The blue tiles (displayed once the algorithms runs) represent the visited or explored tiles
+* The blue tiles (displayed once the algorithms runs) represent the visited or explored points
 * The yellow tiles (displayed once the algorithms runs) represent the shortest path.
 
 #### Visualization Tool
